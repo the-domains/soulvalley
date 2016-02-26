@@ -1,0 +1,28 @@
+name: Soulvalley
+favicon: null
+layout_spectrum: 0.08630382851697505
+typography_spectrum: 0.27177916490472853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15570219000801444
+  lightness: 0.19438051152974367
+  saturation: 0.7016453866381198
+  rhythmicContrast: 0.21140591916628182
+purpose: []
